@@ -1,5 +1,5 @@
-const nome = 'Celito';
-const sobrenome = 'k';
+const nome = '**';
+const sobrenome = '#';
 const idade = 33;
 const peso = 68;
 const altura = 1.71;
