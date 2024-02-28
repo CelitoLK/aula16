@@ -1,4 +1,4 @@
-const nome = '**';
+const nome = '***';
 const sobrenome = '#';
 const idade = 33;
 const peso = 68;
